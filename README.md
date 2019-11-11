@@ -1,1 +1,2 @@
-# tsilab1
+# tsilab
+Ovo je prva lab vježba iz TSI.
